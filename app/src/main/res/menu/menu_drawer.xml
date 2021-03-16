@@ -13,6 +13,14 @@
             android:icon="@drawable/ic_series"
             android:title="@string/series" />
         <item
+            android:id="@+id/loginFragment"
+            android:icon="@drawable/ic_login"
+            android:title="@string/login" />
+        <item
+            android:id="@+id/logoutFragment"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/logout" />
+        <item
             android:id="@+id/configFragment"
             android:icon="@drawable/ic_settings"
             android:title="@string/config" />

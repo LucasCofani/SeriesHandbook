@@ -11,4 +11,6 @@
     <string name="movie">Filmes</string>
     <string name="user_default">Username</string>
     <string name="series">Series</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
 </resources>
