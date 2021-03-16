@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/homeFragmentMovie">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="br.com.serieshandbook.ui.home.HomeFragment"
+        android:label="@string/descobrir"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/homeFragmentMovie"
+        android:name="br.com.serieshandbook.ui.home.HomeFragment"
+        android:label="@string/descobrir"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/historicoFragment"
+        android:name="br.com.serieshandbook.ui.historico.HistoricoFragment"
+        android:label="@string/historico"
+        tools:layout="@layout/fragment_historico" />
+    <fragment
+        android:id="@+id/laterFragment"
+        android:name="br.com.serieshandbook.ui.later.LaterFragment"
+        android:label="@string/later"
+        tools:layout="@layout/fragment_later" />
+    <fragment
+        android:id="@+id/configFragment"
+        android:name="br.com.serieshandbook.ConfigFragment"
+        android:label="@string/config"
+        tools:layout="@layout/fragment_config" />
+
+    <fragment
+        android:id="@+id/homeFragmentSeries"
+        android:name="br.com.serieshandbook.ui.home.HomeFragment"
+        android:label="@string/descobrir"
+        tools:layout="@layout/fragment_home" />
+
+</navigation>

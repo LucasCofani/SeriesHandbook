@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SeriesHandbook</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="config">Configurações</string>
+
+    <string name="descobrir">Descobrir</string>
+    <string name="historico">Historico</string>
+    <string name="later">Assistir depois</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Filmes</string>
+    <string name="user_default">Username</string>
+    <string name="series">Series</string>
+</resources>
