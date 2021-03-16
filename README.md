@@ -7,5 +7,6 @@
 <h1>Atualizações</h1>
 <h2>16/06/2021</h2>
 <ul>
-<li>Primeiras telas</li>
+<li>Primeiras telas e navegações</li>
+<li>Tema da tela de filmes</li>
 </ul>
