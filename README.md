@@ -11,3 +11,4 @@
 <li>Tema da tela de filmes</li>
 </ul>
 <h1>Descontinuado</h1>
+<h2>Alterado para https://github.com/LucasCofani/SeriesHankbookCompose</h2>
